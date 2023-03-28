@@ -1,0 +1,7 @@
+https://medunna.com/  //bunu nasil olusturdu kendiniz mi yazdiniz elle?
+
+username:  infoTech
+password:  Admin123.
+
+username:  infoTech02
+password:  Admin123.
